@@ -23,7 +23,7 @@ Instrucciones técnicas detalladas para el agente.
 ```json
 {
   "config": {
-    "whatsappNumber": "5255744330570",
+    "whatsappNumber": "528116352178",
     "currency": "MXN",
     "brandName": "Sara Studio"
   },
@@ -47,7 +47,7 @@ Instrucciones técnicas detalladas para el agente.
 ```
 
 ### Integración con WhatsApp
-Genera enlaces usando: `https://wa.me/5255744330570?text=...` con el mensaje del producto prellenado.
+Genera enlaces usando: `https://wa.me/528116352178?text=...` con el mensaje del producto prellenado.
 
 ### Rendimiento y SEO
 - Objetivo: FCP < 1.5s, LCP < 2.5s.

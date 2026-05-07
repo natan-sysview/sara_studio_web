@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sara Studio | Boutique Premium</title>
+    <!-- Fonts: Playfair Display and Inter -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600&family=Playfair+Display:ital,wght@0,600;1,600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="./style.css">
+  </head>
+  <body>
+    <header class="header">
+      <h1 class="brand-name">Sara Studio</h1>
+      <p class="brand-subtitle">Boutique Premium Online</p>
+      <div class="trust-badges">
+        <span>✓ Autenticidad Garantizada</span>
+        <span class="dot">•</span>
+        <span>Nuevas con Etiqueta</span>
+        <span class="dot">•</span>
+        <span>Piezas Exclusivas</span>
+      </div>
+    </header>
+
+    <main class="container">
+      <nav class="category-tabs">
+        <button class="tab-btn active" data-category="todos">Todos</button>
+        <button class="tab-btn" data-category="bolsas">Bolsas</button>
+        <button class="tab-btn" data-category="calzado">Calzado</button>
+      </nav>
+
+      <div id="product-grid" class="product-grid">
+        <!-- Products will be injected here via JS -->
+      </div>
+    </main>
+
+    <footer class="footer">
+      <p>&copy; 2026 Sara Studio. Todos los derechos reservados.</p>
+    </footer>
+
+    <!-- Lightbox Modal -->
+    <div id="image-modal" class="modal">
+      <span class="close-modal">&times;</span>
+      <img class="modal-content" id="modal-img" alt="Vista completa">
+    </div>
+
+    <script type="module" src="./main.js"></script>
+  </body>
+</html>

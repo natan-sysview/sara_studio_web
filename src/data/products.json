@@ -1,0 +1,240 @@
+{
+  "config": {
+    "whatsappNumber": "528116352178",
+    "currency": "MXN",
+    "brandName": "Sara Studio"
+  },
+  "products": [
+    {
+      "id": "ted-baker-tote-1",
+      "brand": "Ted Baker London",
+      "name": "Bolsa Tote Rosa Brillante",
+      "category": "bolsas",
+      "marketPrices": { "tiendas departamentales": 4490 },
+      "salePrice": 1950,
+      "images": ["imagenes/ted_baker_tote_1.jpg"],
+      "dateAdded": "2026-05-06",
+      "available": true
+    },
+    {
+      "id": "ted-baker-tote-2",
+      "brand": "Ted Baker London",
+      "name": "Bolsa Tote Rosa Brillante (Frontal)",
+      "category": "bolsas",
+      "marketPrices": { "tiendas departamentales": 4490 },
+      "salePrice": 1950,
+      "images": ["imagenes/ted_baker_tote_2.jpg"],
+      "dateAdded": "2026-05-06",
+      "available": true
+    },
+    {
+      "id": "ted-baker-tote-3",
+      "brand": "Ted Baker London",
+      "name": "Bolsa Tote Rosa Brillante (Detalle)",
+      "category": "bolsas",
+      "marketPrices": { "tiendas departamentales": 4490 },
+      "salePrice": 1950,
+      "images": ["imagenes/ted_baker_tote_3.jpg"],
+      "dateAdded": "2026-05-06",
+      "available": true
+    },
+    {
+      "id": "ted-baker-tote-4",
+      "brand": "Ted Baker London",
+      "name": "Bolsa Tote Rosa Brillante (Etiqueta)",
+      "category": "bolsas",
+      "marketPrices": { "tiendas departamentales": 4490 },
+      "salePrice": 1950,
+      "images": ["imagenes/ted_baker_tote_4.jpg"],
+      "dateAdded": "2026-05-06",
+      "available": true
+    },
+    {
+      "id": "ted-baker-collection-1",
+      "brand": "Ted Baker London",
+      "name": "Cosmetiquera Rosa Pastel",
+      "category": "bolsas",
+      "marketPrices": { "tiendas departamentales": 2490 },
+      "salePrice": 1100,
+      "images": ["imagenes/ted_baker_collection_1.jpg"],
+      "dateAdded": "2026-05-06",
+      "available": true
+    },
+    {
+      "id": "ted-baker-collection-2",
+      "brand": "Ted Baker London",
+      "name": "Crossbody/Cartera Rosa",
+      "category": "bolsas",
+      "marketPrices": { "tiendas departamentales": 6490 },
+      "salePrice": 2900,
+      "images": ["imagenes/ted_baker_collection_2.jpg"],
+      "dateAdded": "2026-05-06",
+      "available": true
+    },
+    {
+      "id": "ted-baker-collection-3",
+      "brand": "Ted Baker London",
+      "name": "Accesorio Rosa Colección 3",
+      "category": "bolsas",
+      "marketPrices": { "tiendas departamentales": 6490 },
+      "salePrice": 2900,
+      "images": ["imagenes/ted_baker_collection_3.jpg"],
+      "dateAdded": "2026-05-06",
+      "available": true
+    },
+    {
+      "id": "ted-baker-collection-4",
+      "brand": "Ted Baker London",
+      "name": "Accesorio Rosa Colección 4",
+      "category": "bolsas",
+      "marketPrices": { "tiendas departamentales": 6490 },
+      "salePrice": 2900,
+      "images": ["imagenes/ted_baker_collection_4.jpg"],
+      "dateAdded": "2026-05-06",
+      "available": true
+    },
+    {
+      "id": "ted-baker-collection-5",
+      "brand": "Ted Baker London",
+      "name": "Accesorio Rosa Colección 5",
+      "category": "bolsas",
+      "marketPrices": { "tiendas departamentales": 6490 },
+      "salePrice": 2900,
+      "images": ["imagenes/ted_baker_collection_5.jpg"],
+      "dateAdded": "2026-05-06",
+      "available": true
+    },
+    {
+      "id": "dkny-yugo-1",
+      "brand": "DKNY",
+      "name": "Yugo Crossbody Negra con Hebilla Dorada",
+      "category": "bolsas",
+      "marketPrices": { "tiendas departamentales": 2999 },
+      "salePrice": 1400,
+      "images": ["imagenes/dkny_yugo_crossbody_1.jpg"],
+      "dateAdded": "2026-05-06",
+      "available": true
+    },
+    {
+      "id": "dkny-yugo-2",
+      "brand": "DKNY",
+      "name": "Yugo Crossbody Negra (Detalle Hebilla)",
+      "category": "bolsas",
+      "marketPrices": { "tiendas departamentales": 2999 },
+      "salePrice": 1400,
+      "images": ["imagenes/dkny_yugo_crossbody_2.jpg"],
+      "dateAdded": "2026-05-06",
+      "available": true
+    },
+    {
+      "id": "dkny-tenis-1",
+      "brand": "DKNY",
+      "name": "Abbi Slip-On Sneaker Negras",
+      "category": "calzado",
+      "marketPrices": { "tiendas departamentales": 2999 },
+      "salePrice": 1450,
+      "images": ["imagenes/dkny_belt_bag_1.jpg"],
+      "dateAdded": "2026-05-06",
+      "available": true
+    },
+    {
+      "id": "dkny-tenis-2",
+      "brand": "DKNY",
+      "name": "Abbi Slip-On Sneaker Negras (Vista Superior)",
+      "category": "calzado",
+      "marketPrices": { "tiendas departamentales": 2999 },
+      "salePrice": 1450,
+      "images": ["imagenes/dkny_belt_bag_2.jpg"],
+      "dateAdded": "2026-05-06",
+      "available": true
+    },
+    {
+      "id": "dkny-tenis-3",
+      "brand": "DKNY",
+      "name": "Abbi Slip-On Sneaker Negras (Vista Lateral)",
+      "category": "calzado",
+      "marketPrices": { "tiendas departamentales": 2999 },
+      "salePrice": 1450,
+      "images": ["imagenes/dkny_belt_bag_3.jpg"],
+      "dateAdded": "2026-05-06",
+      "available": true
+    },
+    {
+      "id": "dkny-tenis-4",
+      "brand": "DKNY",
+      "name": "Abbi Slip-On Sneaker Negras (Interior)",
+      "category": "calzado",
+      "marketPrices": { "tiendas departamentales": 2999 },
+      "salePrice": 1450,
+      "images": ["imagenes/dkny_belt_bag_4.jpg"],
+      "dateAdded": "2026-05-06",
+      "available": true
+    },
+    {
+      "id": "dkny-tenis-5",
+      "brand": "DKNY",
+      "name": "Abbi Slip-On Sneaker Negras (Etiqueta)",
+      "category": "calzado",
+      "marketPrices": { "tiendas departamentales": 2999 },
+      "salePrice": 1450,
+      "images": ["imagenes/dkny_belt_bag_5.jpg"],
+      "dateAdded": "2026-05-06",
+      "available": true
+    },
+    {
+      "id": "karl-love-1",
+      "brand": "Karl Lagerfeld",
+      "name": "Bolsa Corazón 'LOVE' Cristales",
+      "category": "bolsas",
+      "marketPrices": { "tiendas departamentales": 3999 },
+      "salePrice": 1800,
+      "images": ["imagenes/karl_lagerfeld_love_1.jpg"],
+      "dateAdded": "2026-05-06",
+      "available": true
+    },
+    {
+      "id": "karl-love-2",
+      "brand": "Karl Lagerfeld",
+      "name": "Bolsa Corazón 'LOVE' Cristales (Frontal)",
+      "category": "bolsas",
+      "marketPrices": { "tiendas departamentales": 3999 },
+      "salePrice": 1800,
+      "images": ["imagenes/karl_lagerfeld_love_2.jpg"],
+      "dateAdded": "2026-05-06",
+      "available": true
+    },
+    {
+      "id": "karl-love-3",
+      "brand": "Karl Lagerfeld",
+      "name": "Bolsa Corazón 'LOVE' Cristales (Lateral)",
+      "category": "bolsas",
+      "marketPrices": { "tiendas departamentales": 3999 },
+      "salePrice": 1800,
+      "images": ["imagenes/karl_lagerfeld_love_3.jpg"],
+      "dateAdded": "2026-05-06",
+      "available": true
+    },
+    {
+      "id": "karl-love-4",
+      "brand": "Karl Lagerfeld",
+      "name": "Bolsa Corazón 'LOVE' Cristales (Trasera)",
+      "category": "bolsas",
+      "marketPrices": { "tiendas departamentales": 3999 },
+      "salePrice": 1800,
+      "images": ["imagenes/karl_lagerfeld_love_4.jpg"],
+      "dateAdded": "2026-05-06",
+      "available": true
+    },
+    {
+      "id": "karl-love-5",
+      "brand": "Karl Lagerfeld",
+      "name": "Bolsa Corazón 'LOVE' Cristales (Etiqueta)",
+      "category": "bolsas",
+      "marketPrices": { "tiendas departamentales": 3999 },
+      "salePrice": 1800,
+      "images": ["imagenes/karl_lagerfeld_love_5.jpg"],
+      "dateAdded": "2026-05-06",
+      "available": true
+    }
+  ]
+}
