@@ -20,14 +20,20 @@ Este proyecto usa **Vite** como servidor. Si abres el `index.html` haciendo dobl
 Asegúrate de tener instalado [Node.js](https://nodejs.org/) (versión 18 o superior).
 
 ```bash
-# 1. Instalar dependencias
+# 1. Ir a la carpeta del proyecto
+cd ~/Desktop/proyectosnatan/appweb/gabysary
+
+# 2. Instalar dependencias
 npm install
 ```
 
 ### Cada vez que quieras ver la web
 
 ```bash
-# 2. Levantar el servidor
+# Primero estar en la carpeta del proyecto
+cd ~/Desktop/proyectosnatan/appweb/gabysary
+
+# Luego levantar el servidor
 npm run dev
 ```
 
